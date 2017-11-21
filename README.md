@@ -10,8 +10,8 @@ Pyblish integration for The Foundry NukeAssist.
 
 A set of common plug-ins and functions shared across other integrations - such as getting the current working file. It also visually integrates Pyblish into the File-menu for easy access.
 
-- Common [plug-ins](https://github.com/pyblish/pyblish-nuke/tree/master/pyblish_nuke/plugins)
-- Common [functionality](https://github.com/pyblish/pyblish-nuke/blob/master/pyblish_nuke/__init__.py)
+- Common [plug-ins](https://github.com/pyblish/pyblish-nukeassist/tree/master/pyblish_nukeassist/plugins)
+- Common [functionality](https://github.com/pyblish/pyblish-nukeassist/blob/master/pyblish_nukeassist/__init__.py)
 - File-menu shortcut
 
 <br>
@@ -20,7 +20,7 @@ A set of common plug-ins and functions shared across other integrations - such a
 
 ### Installation
 
-pyblish-nuke depends on [pyblish-base](https://github.com/pyblish/pyblish-base) and is available via PyPI.
+pyblish-nukeassist depends on [pyblish-base](https://github.com/pyblish/pyblish-base) and is available via PyPI.
 
 Ensure Pyblish for NukeAssist is on your `PYTHONPATH` and run this within NukeAssist.
 
